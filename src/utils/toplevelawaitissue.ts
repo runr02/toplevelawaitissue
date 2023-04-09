@@ -1,0 +1,1 @@
+export const message = await Promise.resolve("Hello World");
